@@ -8,6 +8,9 @@ public class Main {
         System.out.println(cachorro.mostrarInformacoes());
 
         System.out.println("O cachorro faz o som: " + cachorro.latir());
+        System.out.println("O cachorro faz o som: " + cachorro.latir());
 
     }
 }
+
+
